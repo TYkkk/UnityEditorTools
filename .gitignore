@@ -1,0 +1,7 @@
+UnityEditorTools/Library
+UnityEditorTools/Temp
+*.sln
+*.csproj
+*.suo
+UnityEditorTools/Logs
+UnityEditorTools/obj
